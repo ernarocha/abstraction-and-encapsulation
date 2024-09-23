@@ -108,7 +108,7 @@ public:
 
             cout << endl << "Savings Account Menu" << endl;
             cout << "1 - Deposit" << endl;
-            cout << "2 - Withdrawal" << endl;
+            cout << "2 - Withdraw" << endl;
             cout << "3 - Check Balance" << endl;
             cout << "4 - Back" << endl;
 
